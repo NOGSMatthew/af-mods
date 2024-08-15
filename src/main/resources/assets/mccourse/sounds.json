@@ -1,0 +1,18 @@
+{
+  "music.custom_music": {
+      "sounds": [
+          {
+              "name": "mymodid:music/custom_music",
+              "stream": true
+          }
+      ]
+  },
+  "music.custom_music2": {
+      "sounds": [
+          {
+              "name": "mymodid:music/custom_music2",
+              "stream": true
+          }
+      ]
+  }
+}
